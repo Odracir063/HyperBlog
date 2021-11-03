@@ -1,0 +1,2 @@
+Este es el primer documento del curoso de git y github de platzi 
+Lo hago para aprender y poder trabajar con el equipo de Alex.
